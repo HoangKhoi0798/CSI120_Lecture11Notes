@@ -1,5 +1,9 @@
 ﻿namespace CSI120_Week5_FirstLecture
 {
+    // Hoang Khoi Gia Nguyen
+    // CSI 120 - Computer Programming 1
+    // Lecture 11 Notes
+
     internal class Program
     {
 
